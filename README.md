@@ -4,15 +4,15 @@
 
 The core API for the CRM was non-responsive and would not work. So the project was built using mysql with postgres.
 
-[x] Understanding Requirements
-[ ] Testing provided APIs - APIs non-responsive
-[x] Creating DB
-    [x] Testing Schema
-    [x] Setting Up Details
-[x] Setting Up PostMan Routes
-[x] Saving Routes
-[x] Sending Email
-[ ] Awaiting Res :3
+- [x] Understanding Requirements
+- [ ] Testing provided APIs - APIs non-responsive
+- [x] Creating DB
+    - [x] Testing Schema
+    - [x] Setting Up Details
+- [x] Setting Up PostMan Routes
+- [x] Saving Routes
+- [x] Sending Email
+- [ ] Awaiting Res :3
 
 ## Table Creation
 ```sql
