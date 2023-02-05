@@ -1,5 +1,5 @@
 # CRM-MySQL Basic CRUD Project
-![Fun Stuff.](https://images.squarespace-cdn.com/content/v1/58d20c79725e25b221549193/1608020490393-RBHFYWZAECA6UCJMX7FK/Integrate+CI+CD.gif?format=1000w)
+![Fun Stuff.](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 > Built with Express.js and Node.js
 
